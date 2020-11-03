@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Snir Yadid",
+    "label": "Junior Software Developer",
+    "picture": "images/sz.jpg",
+    "x_pictureFallback": "images/sz.jpg",
+    "x_title": "Welcome Aboard, Glad you're Here ",
+    "summary": "A Software developer with a BSc Computer Science degree.",
+    "summaryf": "Experience in Full-Stack project at making web applications end to end, learn quickly for R&D projects, and updating/maintaining existing programs.",
+    "summarya": "Also I have experience in Automation project",
+    "location": {
+      "country": "Israel",
+      "countryCode": "IL",
+      "region": "Tel-Aviv"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sniryadid",
+        "url": "https://www.linkedin.com/in/snir-yadid-4097b91a3",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "Sniryadid",
+        "url": "https://github.com/san-ya",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "LSports",
+      "position": "FullStack Web Developer at  (Internship)–",
+      "website": "https://www.lsports.eu",
+      "startDate": "2020-01-01",
+      "endDate": "2020-08-01",
+      "summary": "Joined LSports to build system monitor tool that can check at real-time all process and CPU usage and if necessary send warning notify to the system admin",
+      "highlights": []
+    },
+    {
+      "company": "Intel Summer Research Program",
+      "position": "Outstanding Students Delegation",
+      "website": "http://iox.ntu.edu.tw/newsletters/spending-summer-intel-ntu-ccc-center-summer-research-program?language=en",
+      "startDate": "2019-07-10",
+      "endDate": "",
+      "summary": "Started my first professional developer experience as a Full-Stack Developer at NTU (National Taiwan University, Taipei). Develop android Software to help the autistic population on the spectrum by incorporating artificial intelligence and machine learning on the ASUS robot the 'ZENBO'",
+      "highlights": []
+    },
+    {
+      "company": "Ashkelon Academic College",
+      "position": "BSc Computer Scince Student",
+      "website": "https://www.aac.ac.il/",
+      "startDate": "2017-10-01",
+      "endDate": "",
+      "summary": "Starting my academic road at AAC at the Computer Scince department. Learning new technology and faces new challenge everyday",
+      "highlights": []
+    },
+    {
+      "company": "Israel Defense Forces",
+      "position": "",
+      "website": "https://www.idf.il/",
+      "startDate": "2013-07-02",
+      "endDate": "2017-11-22",
+      "summary": "Permanent service in Technological unit, IAF",
+      "highlights": []
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "HTML & CSS",
+      "level": "Advanced",
+      "keywords": ["stackOne"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["stackOne"]
+    },
+    {
+      "name": "Selenium",
+      "level": "Advanced",
+      "keywords": ["stackOne"]
+    }, 
+    {
+      "name": "Express.js",
+      "level": "Intermediate",
+      "keywords": ["stackOne"]
+    },
+    
+    {
+      "name": "Python & Scripting",
+      "level": "Advanced",
+      "keywords": ["stackOne"]
+    },
+    {
+      "name": "Android Studio",
+      "level": "Intermediate",
+      "keywords": ["stackOne"]
+    },
+
+    {
+      "name": "C | C++",
+      "level": "Intermediate",
+      "keywords": ["stackOne"]
+    },
+    {
+      "name": "Java",
+      "level": "Basic",
+      "keywords": ["stackOne"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["stackTwo"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    },
+
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["stackTwo"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    },
+
+    {
+      "name": "Object Oriented Programming",
+      "level": "Intermediate",
+      "keywords": ["stackTwo"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "High Level"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Watching TV",
+      "x_icon": "fa-couch"
+    },
+    {
+      "name": "Sport addicted",
+      "x_icon": "fa-running"
+    },
+    {
+      "name": "Gardening",
+      "x_icon": "fa-seedling"
+    },
+    {
+      "name": "Always positive",
+      "x_icon": "fa-smile"
+    }
+  ]
+}
