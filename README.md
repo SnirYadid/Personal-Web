@@ -1,6 +1,6 @@
 # Snir Yadid Personal website
 
-This is my personal website built using ReactJS and Bulma as the CSS framework. [Live here](https://https://snir-yadid-personal-web.netlify.app//)
+This is my personal website built using ReactJS and Bulma as the CSS framework. [Live here](https://https://snir-yadid-personal-web.netlify.app)
 
 The personal information on the website is populated from a json file that follows the [JSON Resume](https://jsonresume.org/) open source standard.
 
